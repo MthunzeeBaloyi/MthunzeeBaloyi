@@ -1,4 +1,4 @@
 
-Fullstack Web Developer || 
-Cybersecurity student 
+Fullstack Web Developer 
+
  
